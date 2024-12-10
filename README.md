@@ -43,7 +43,7 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-![Computer Science Thumbnail](https://github.com/user-attachments/assets/275f0012-fe0f-4a04-a3b8-c2307d87f21f)([youtube-URL-here](https://youtu.be/ATw7seIk6ug))
+![Computer Science Thumbnail](https://github.com/user-attachments/assets/275f0012-fe0f-4a04-a3b8-c2307d87f21f)((https://youtu.be/ATw7seIk6ug))
 
 ## Description
 
